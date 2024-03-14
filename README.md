@@ -13,8 +13,8 @@ The ARC Chinese is a tool that calculates the readability of Chinese texts, whic
 
 The ARC Chinese provides versions working on both MS Windows and Mac OS. It is free to use the ARC Chinese. It is very much appreciated if you cite our work as follows when you use the ARC Chinese.
 
-- Lei, Lei, Wei, Yaoyu, & Liu, Kanglong. 2024. AlphaReadabilityChinese: A tool for the measurement of readability in Chinese texts and its applications. _Foreign Languages and Their Teaching_. _46_(1). (in Chinese)
-- or 雷蕾, 韦瑶瑜, 刘康龙. 2024. AlphaReadabilityChinese：汉语文本可读性工具开发与应用. 外语与外语教学. _46_(1).
+- Lei, Lei, Wei, Yaoyu, & Liu, Kanglong. 2024. AlphaReadabilityChinese: A tool for the measurement of readability in Chinese texts and its applications. _Foreign Languages and Their Teaching_. _46_(1):83-93. (in Chinese)
+- or 雷蕾, 韦瑶瑜, 刘康龙. 2024. AlphaReadabilityChinese：汉语文本可读性工具开发与应用. 外语与外语教学. _46_(1):83-93.
 
 You can also find detailed information of the ARC Chinese in the foregoing article. 
 
