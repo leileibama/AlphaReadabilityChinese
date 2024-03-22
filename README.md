@@ -41,3 +41,10 @@ Hope the ARC Chinese helps. Comments and suggestions are welcome! (leileicnATqqD
 4. Click "Run". When the ARC Chinese says "Processing ends", find the newly generated resulting file entitled "0ARC_Chinese_Results.csv". 
 
 5. Open the resulting file with your spreadsheet app such as MS Office Excel or Numbers on Mac OS and check out the readability measures of all texts in the Input Folder.
+
+**Unknown issues**
+On MacOS, if you encounter the "App is damaged and can't be opened" error, go to Terminal and type the following:
+
+`sudo xattr -cr /Applications/AlphaReadabilityChinese.app`
+
+
