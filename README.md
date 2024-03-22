@@ -44,7 +44,7 @@ Hope the ARC Chinese helps. Comments and suggestions are welcome! (leileicnATqqD
 
 **Unknown issues**
 
-On MacOS, if you encounter the "App is damaged and can't be opened" error, go to Terminal and type the following:
+On MacOS, if you encounter the "App is damaged and can't be opened" error, go to Terminal and type/run the following:
 
 `sudo xattr -cr /Applications/AlphaReadabilityChinese.app`
 
