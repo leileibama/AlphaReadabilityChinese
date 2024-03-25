@@ -2,13 +2,13 @@
 
 - AlphaReadabilityChinese is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, and semantic levels.
 
-**_Download_**
+## **_Download_**
 
 Download AlphaReadabilityChinese at:
 
 https://github.com/leileibama/AlphaReadabilityChinese/releases/tag/AlphaReadabilityChinese
 
-**AlphaReadabilityChinese 1.0**
+## **AlphaReadabilityChinese 1.0**
 
 Hi all,
 
@@ -25,15 +25,11 @@ You can also find detailed information of the ARC Chinese in the foregoing artic
 
 The ARC Chinese is designed and developed by Lei Lei and Tingyu Zhang, Shanghai International Studies University.
 
-Downloads
-https://github.com/leileibama/AlphaReadabilityChinese/releases/
-
 Hope the ARC Chinese helps. Comments and suggestions are welcome! (leileicnATqqDOTcom)
-
 
 ******************************************
 
-### Guidelines for Users
+## Guidelines for Users
 
 1. Put all the texts you are going to process in a folder (such as "my_test_files", the test folder that we provide and that contains five abstracts of our articles). Note that all texts should be in the .txt format with the encoding 'UTF-8'.
 
@@ -47,7 +43,7 @@ Hope the ARC Chinese helps. Comments and suggestions are welcome! (leileicnATqqD
 
 5. Open the resulting file with your spreadsheet app such as MS Office Excel or Numbers on Mac OS and check out the readability measures of all texts in the Input Folder.
 
-**Known issues**
+## **Known issues**
 
 On MacOS, if you encounter the "App is damaged and can't be opened" error, 1) copy AlphaReadabilityChinese.app to the Applications folder, 2) go to Terminal and type/run the following, and 3) reopen AlphaReadabilityChinese.app. 
 
@@ -57,7 +53,7 @@ or
 
 `sudo xattr -r -d com.apple.quarantine /Applications/AlphaReadabilityChinese.app`
 
-**Note**
+## **Note**
 
 Note that it may take a while (approximately 30 seconds on my MacBook) the first time we open AlphaReadabilityChinese when it loads many models behind. The good news is that it works highly efficiently to process our data after all the models are loaded. 
 
