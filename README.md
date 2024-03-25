@@ -1,14 +1,14 @@
-# AlphaReadabilityChinese
+# AlphaReadabilityChinese 1.0
 
-- AlphaReadabilityChinese is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, and semantic levels.
+- AlphaReadabilityChinese 1.0 is a tool that calculates the readability of Chinese texts, which includes indices at lexical, syntactic, and semantic levels.
 
 ## **_Download_**
 
-Download AlphaReadabilityChinese at:
+Download AlphaReadabilityChinese 1.0 for MS Windows and MacOS at:
 
 https://github.com/leileibama/AlphaReadabilityChinese/releases/tag/AlphaReadabilityChinese
 
-## **_AlphaReadabilityChinese 1.0_**
+## **_AlphaReadabilityChinese_**
 
 Hi all,
 
