@@ -42,10 +42,18 @@ Hope the ARC Chinese helps. Comments and suggestions are welcome! (leileicnATqqD
 
 5. Open the resulting file with your spreadsheet app such as MS Office Excel or Numbers on Mac OS and check out the readability measures of all texts in the Input Folder.
 
-**Unknown issues**
+**Known issues**
 
 On MacOS, if you encounter the "App is damaged and can't be opened" error, 1) copy AlphaReadabilityChinese.app to the Applications folder, 2) go to Terminal and type/run the following, and 3) reopen AlphaReadabilityChinese.app. 
 
 `sudo xattr -cr /Applications/AlphaReadabilityChinese.app`
+
+or
+
+`sudo xattr -r -d com.apple.quarantine /Applications/AlphaReadabilityChinese.app`
+
+**Note**
+
+Note that it may take approximately one minute the first time you open AlphaReadabilityChinese when it loads many models behind. The good news is that it works highly efficiently to process your data after all the models are loaded. 
 
 
