@@ -23,7 +23,7 @@ The ARC Chinese provides versions working on both MS Windows and Mac OS. It is f
 
 You can also find detailed information of the ARC Chinese in the foregoing article. 
 
-The ARC Chinese is designed and developed by Lei Lei and Tingyu Zhang, Shanghai International Studies University.
+The ARC Chinese is designed and developed by Lei Lei (雷蕾) and Tingyu Zhang (张婷玉), Shanghai International Studies University.
 
 Hope the ARC Chinese helps. Comments and suggestions are welcome! (leileicnATqqDOTcom)
 
