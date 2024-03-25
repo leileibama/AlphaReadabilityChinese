@@ -54,6 +54,6 @@ or
 
 **Note**
 
-Note that it may take approximately one minute the first time you open AlphaReadabilityChinese when it loads many models behind. The good news is that it works highly efficiently to process your data after all the models are loaded. 
+Note that it may take a while (approximately 30 seconds on my MacBook) the first time we open AlphaReadabilityChinese when it loads many models behind. The good news is that it works highly efficiently to process our data after all the models are loaded. 
 
 
